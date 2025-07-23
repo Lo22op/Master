@@ -4,7 +4,7 @@ A powerful modular JavaScript project containing multiple integrated systems, ea
 This project is **scalable** — more systems can be added in the future.
 
 ## 🚀 Live Demo
-🔗 [Live Site]  https://lo22op.github.io/Master/
+🔗 [Live Site] https://lo22op.github.io/Multi-System-JS-Project/
 
 ---
 
